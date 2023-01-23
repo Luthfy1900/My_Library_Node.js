@@ -13,5 +13,5 @@ In order to run this you will need two things:
 * Click on it and it should open up in the browser
 
 # Note
-* Just running the app using the terminal will not work because Node.js does not have a window or document. That's why we installed "Live Server". You can test it out by typing <code> node app.js <code> in the console.
+* Just running the app using the terminal will not work because Node.js does not have a window or document. That's why we installed "Live Server". You can test it out by typing <code>node app.js<code> in the console.
 * It will work if you do <code>console.log("Hello World)"<code> because it is merely a function with no DOM manipulation.
