@@ -1,5 +1,5 @@
 # My_Library_Node.js
-This is a simple book library using Node.js.
+This is a simple book library using Node.js and bootsrap.
 
 # What's Needed?
 In order to run this you will need two things:
