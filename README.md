@@ -1,5 +1,5 @@
 # My_Library_Node.js
-This is a simple library book library running using Node.js.
+This is a simple book library using Node.js.
 
 # What's Needed?
 In order to run this you will need two things:
@@ -13,5 +13,5 @@ In order to run this you will need two things:
 * Click on it and it should open up in the browser.
 
 # Note
-* Just running the app using the terminal will not work because Node.js does not have a window or document. That's why we installed "Live Server". You can test it out by typing ```node app.js``` in the console.
-* It will work if you do ```console.log("Hello World")``` because ```console.log()``` it is merely a function with no DOM manipulation.
+* Just running the app using the terminal will not work because Node.js does not have a window or document. That's why we installed "Live Server". You can test it out by typing ```node app.js``` in the terminal to try and open the application.
+* It will work if you do ```console.log("Hello World")``` because ```console.log()``` is merely a function with no DOM manipulation.
