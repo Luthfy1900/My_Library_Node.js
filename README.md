@@ -8,10 +8,10 @@ In order to run this you will need two things:
 
 # Running the App
 * After installing both elements, write a script in the HTML referencing the javascript file. It would look something like this:
-* ```<code><script src="app.js"></script><code>```.
+```<script src="app.js"></script>```.
 * Then afterwards, to test it out, look at the bottom right of VS code, you will see a "Go Live" button.
 * Click on it and it should open up in the browser.
 
 # Note
 * Just running the app using the terminal will not work because Node.js does not have a window or document. That's why we installed "Live Server". You can test it out by typing <code>node app.js<code> in the console.
-* It will work if you do <code>console.log("Hello World)"<code> because it is merely a function with no DOM manipulation.
+* It will work if you do ```console.log("Hello World")``` because it is merely a function with no DOM manipulation.
