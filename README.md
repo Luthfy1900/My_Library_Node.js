@@ -8,7 +8,7 @@ In order to run this you will need two things:
 
 # Running the App
 * After installing both elements, write a script in the HTML referencing the javascript file. It would look something like this:
-* <code><script src="app.js"></script><code>.
+* ```<code><script src="app.js"></script><code>```.
 * Then afterwards, to test it out, look at the bottom right of VS code, you will see a "Go Live" button.
 * Click on it and it should open up in the browser.
 
